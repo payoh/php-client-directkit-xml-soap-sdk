@@ -22,7 +22,7 @@ echo "<pre>".json_encode($response, JSON_PRETTY_PRINT)."</pre>";
             "ID": "8888",
             "BAL": "622.00",
             "NAME": "Barack OBAMA",
-            "EMAIL": "hduong8888@lemonway.fr",
+            "EMAIL": "hduong8888@payoh.me",
             "DOCS": {},
             "IBANS": {},
             "STATUS": "6",
